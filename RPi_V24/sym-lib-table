@@ -1,4 +1,5 @@
 (sym_lib_table
-  (lib (name raspberrypi_hat)(type Legacy)(uri ${KIPRJMOD}/project_components/raspberrypi_hat.lib)(options "")(descr ""))
-  (lib (name MAX561)(type Legacy)(uri ${KIPRJMOD}/Interface_UART.lib)(options "")(descr ""))
+  (lib (name "raspberrypi_hat")(type "Legacy")(uri "${KIPRJMOD}/project_components/raspberrypi_hat.lib")(options "")(descr ""))
+  (lib (name "MAX561")(type "Legacy")(uri "${KIPRJMOD}/Interface_UART.lib")(options "")(descr ""))
+  (lib (name "RPi_V24-rescue")(type "Legacy")(uri "${KIPRJMOD}/RPi_V24-rescue.lib")(options "")(descr ""))
 )
